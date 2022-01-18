@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#EEEFF1;
+    color: #0000ff;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+}
+
+
+
+.resume-contact {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.contact-icon{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    flex: 1;
+}
+
+
+.contact-info {
+    flex: 1;
+}
+
+.resume-info {
+    flex: 2;
+}
+.personname p {
+    text-transform: uppercase;
+}
+
+.experience p {
+    text-transform: uppercase;
+}
+
+.education p {
+    text-transform: uppercase;
+}
+
